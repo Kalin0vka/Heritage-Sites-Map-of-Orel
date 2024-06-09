@@ -5,6 +5,7 @@
 Кунина Анастасия
 
 ## Ссылка на карту
+https://kalin0vka.github.io/Heritage-Sites-Map-of-Orel/
 
 ## Краткая информация о городе
 
